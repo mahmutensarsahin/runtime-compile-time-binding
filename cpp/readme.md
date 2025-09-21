@@ -1,6 +1,6 @@
 Tamam — daha sokak ağzı, sık tekrara girmeyen, net ve teknik ama anlaşılır bir anlatım hazırladım. Önce terimler (daha açıklayıcı), sonra kısa örnekler (stack, heap, iki türe örnek) ve her örnek için adım adım ne/nerede/niye olduğunu gösteren hafıza şeması + çağrı akışı. Nokta atışı vurgularla ilerliyorum.
 
-# Kısa sözlük — kullandığımız kavramlar (daha açıklayıcı)
+# Kısa sözlük — kullandığımız kavramlar 
 
 * **virtual**: Bir metodu “burası polymorphic, çağrı gerçek nesneye göre seçilsin” diye işaretlersin. Derleyici buna göre çağrı için dolaylı yol bırakır.
 * **override**: Alt sınıfta üstteki virtual metodun aynısını yazdın, derleyiciye “evet, gerçekten ezdim” dersin — sadece hata yakalamaya yarar, binding zamanını değiştirmez.

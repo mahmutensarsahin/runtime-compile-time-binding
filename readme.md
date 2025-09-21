@@ -17,4 +17,4 @@
 **c/readme.md**: Manuel vtable, vptr, stack/heap örnekleri  
 **cpp/readme.md**: Virtual dispatch, vtable oluşumu, binding zamanları  
 
-## 🔧 Çalıştırma
+

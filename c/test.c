@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Tip tanımları (daha açıklayıcı isimler) */
+/* Tip tanımları */
 typedef int (*high_order_fn)(int (*cb)(int, int (*)(int)), int, int (*)(int));
 typedef int (*func_with_callback)(int, int (*)(int));
 typedef int (*unary_fn)(int);
